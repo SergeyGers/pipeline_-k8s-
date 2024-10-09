@@ -1,4 +1,4 @@
-# locals.tf
+# infra/locals.tf
 
 locals {
   tags = var.tags
